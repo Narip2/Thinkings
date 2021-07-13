@@ -1,1 +1,2 @@
 - The most inspiring thing to do the research is to make your idea become truth.
+- Doing the research, do it straight, not too much skills, more clear, more original thinking.
