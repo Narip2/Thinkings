@@ -1,1 +1,1 @@
-# Thinkings
+- The most inspiring thing to do the research is to make your idea become truth.
