@@ -1,3 +1,4 @@
 - The most inspiring thing to do the research is to make your idea become truth.
 - Doing the research, do it straight, not too much skills, more clear, more original thinking.
 - Knowing definition is important. I don't know where I read that Feynmann told the students who learn biology that they spend a lot of time on remembering the meaning of terminology. But I think it does not suit to math and even physics! So try to know the precise meaning of the term appear in the mathmatical books, and of course, the books of physics.
+- Think things in your own! Not get used to read, instead, think! Books or reading materials is only a leading thing.
