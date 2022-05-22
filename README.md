@@ -1,4 +1,13 @@
-- The most inspiring thing to do the research is to make your idea become truth.
-- Doing the research, do it straight, not too much skills, more clear, more original thinking.
-- Knowing definition is important. I don't know where I read that Feynmann told the students who learn biology that they spend a lot of time on remembering the meaning of terminology. But I think it does not suit to math and even physics! So try to know the precise meaning of the term appear in the mathmatical books, and of course, the books of physics.
-- Think things in your own! Not get used to read, instead, think! Books or reading materials is only a leading thing.
+---
+title: Rotating wave approximation
+date: 2021-11-17 19:07:02
+tags: foundations
+---
+
+Rotating wave states that is the often used approximation in quantum optics[^1], which states that fast oscillating terms can be removed.
+
+For example :
+$ e^{\pm in\theta}\Rightarrow \int{e^{\pm in\theta}d\theta =\frac{e^{\pm in\theta}}{\pm in}} $, when n is very large, the term will be removed. Becase the unitary $U = e^{i\int Hdt}$, so normally if the integral in $H$ is approximate zero, it can be removed directly.
+
+[^1]: [Rotating wave approximation](https://www.scirp.org/pdf/JMP_2017112717081165.pdf)
+
